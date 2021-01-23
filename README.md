@@ -1,7 +1,7 @@
 # Hi there :wave:
 
 -----
-![Profile views](https://gpvc.arturio.dev/felix-schaipp) [![GitHub followers](https://img.shields.io/github/followers/felix-schaipp.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/felix-schaipp?tab=followers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-schaipp-7957561b5/)
+![Profile views](https://gpvc.arturio.dev/felix-schaipp) [![GitHub followers](https://img.shields.io/github/followers/felix-schaipp.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/felix-schaipp?tab=followers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-schaipp-7957561b5/)
 -----
 
 ## About me
