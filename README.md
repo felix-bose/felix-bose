@@ -9,10 +9,6 @@ Hi, I am Felix, a 27-year-old developer from Munich, Germany. I am really passio
 ## top languages
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-schaipp&theme=blue-green&layout=compact)
 
-## stats
-
-[![Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-schaipp&count_private=true&include_all_commits=true)](https://github.com/felix-schaipp/github-readme-stats)
-
 ##### programmic languages
 
 > javascript/typescript | bash | php | java | python | angular 2/4
