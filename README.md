@@ -6,11 +6,11 @@
 
 ## About me
 
-Hi, I am Felix, a 27-year-old developer from Munich, Germany. I am really passionate about tech in general, but coding is my real love so to speak :blush:. The harder the problem the more satisfying it is to complete the challenge. I am always eager to learn and explore new concepts or ideas.
+Hi, I am Felix, a 28-year-old developer from Munich, Germany. I am really passionate about tech in general, but coding is my real love so to speak :blush:. The harder the problem the more satisfying it is to complete the challenge. I am always eager to learn and explore new concepts, languages and ideas.
 Current side projects:
 
-- [iOS coinbase widget](https://github.com/felix-schaipp/coinbase-ios-widget) with a small [backend service](https://github.com/felix-schaipp/widget-service)
 - [Lito](https://github.com/felix-schaipp/lito) (a react native household managing app)
+- [iOS coinbase widget](https://github.com/felix-schaipp/coinbase-ios-widget) with a small [backend service](https://github.com/felix-schaipp/widget-service)
 
 ## top languages
 
@@ -18,7 +18,7 @@ Current side projects:
 
 ##### programmic languages
 
-> javascript/typescript | bash | php | java | python | angular 2/4
+> javascript/typescript | python | bash | php | java | angular 2/4
 
 ##### template languages
 
@@ -34,6 +34,7 @@ Current side projects:
 
 ## job experience
 
+- Working full time as a fullstack engineer at [sento](https://sento.io/)
 - Working full time as a fullstack developer in an agile, interdisciplinary team at [auteon](https://www.auteon.de/)
 - Working student at exutec - rebuilding [netsek](https://www.netsek.net/)
 - Internship at exutec (now [&why](https://www.why.de/))
