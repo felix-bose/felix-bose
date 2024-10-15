@@ -6,44 +6,45 @@
 
 ## About me
 
-Hi, I am Felix, a 28-year-old developer from Munich, Germany. I am really passionate about tech in general, but coding is my real love so to speak :blush:. The harder the problem the more satisfying it is to complete the challenge. I am always eager to learn and explore new concepts, languages and ideas.
+Hi, I am Felix, a 30-year-old fullstack engineer from Munich, Germany. I love coding and a good challenge. I am really passionate about design, both as design patterns in code and in UI/UX.
+
 Current side projects:
 
-- [Lito](https://github.com/felix-schaipp/lito) (a react native household managing app)
-- [iOS coinbase widget](https://github.com/felix-schaipp/coinbase-ios-widget) with a small [backend service](https://github.com/felix-schaipp/widget-service)
-
-## top languages
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-schaipp&theme=blue-green&layout=compact)
+- [Wedding webiste](https://github.com/felix-schaipp/wedding)
 
 ##### programmic languages
 
-> javascript/typescript | python | bash | php | java | angular 2/4
+> TypeScript | Python | Bash | PHP | Java
 
-##### template languages
-
-> xml | html | sass
+I wanna start learning rust 👀
 
 ##### database and caches
 
-> graphql | postgres | mysql | mongodb | redis
+> postgres | mysql | mongodb | redis
+
+##### apis
+graphql | rest
 
 ##### enviroments and tooling
 
-> [vue](https://vuejs.org/) | [react](https://reactjs.org/) | [react native](https://reactnative.dev/) | [electron](https://www.electronjs.org/) | [node](https://nodejs.org/en/) | [puppeteer](https://github.com/puppeteer/puppeteer) | github (+ actions) | [docker](https://www.docker.com/) | [gcloud](https://console.cloud.google.com/) | [aws](https://aws.amazon.com/) | [cloudflare](https://www.cloudflare.com/) | [ionic](https://ionicframework.com/)
+> [react](https://reactjs.org/) | [vue](https://vuejs.org/) | [react native](https://reactnative.dev/) | [electron](https://www.electronjs.org/) | [node](https://nodejs.org/en/) | [puppeteer](https://github.com/puppeteer/puppeteer) | github (+ actions) | [gitlab](https://about.gitlab.com) | [docker](https://www.docker.com/) | [gcloud](https://console.cloud.google.com/) | [aws](https://aws.amazon.com/) | [azure](https://azure.microsoft.com/de-de) | [cloudflare](https://www.cloudflare.com/) | [ionic](https://ionicframework.com/)
 
 ## job experience
 
+- Working full time as a fullstack engineer at [tacto](https://www.tacto.ai)
+- Working full time as an architect at [markant](https://www.markant.com/)
 - Working full time as a fullstack engineer at [sento](https://sento.io/)
 - Working full time as a fullstack developer in an agile, interdisciplinary team at [auteon](https://www.auteon.de/)
-- Working student at exutec - rebuilding [netsek](https://www.netsek.net/)
-- Internship at exutec (now [&why](https://www.why.de/))
+- Working student at &why - rebuilding [netsek](https://www.netsek.net/)
+- Internship at [&why](https://www.why.de/))
 
 ## project experience
 
-- Crypto trading engine in the cloud (AWS) _ongoing_
-- React native app: _[Lito](https://github.com/felix-schaipp/lito) - manage your household together_ _ongoing_
-- iOS Widget: Display coinbase balance and trends _ongoing_
+- Wedding website
+- Vacation Quiz
+- Crypto trading engine in the cloud (AWS)
+- React native app: _[Lito](https://github.com/felix-schaipp/lito) - manage your household together
+- iOS Widget: Display coinbase balance and trends
 - Custom website for _[ewelina bialoszewska](https://www.ewelinabialoszewska.com/)_
 - Prototype website building for _[off-films](https://www.off-films.com/)_
 - IoT Project with the raspberry pi to control home lighting from any device with _[openHAB](https://www.openhab.org/)_ as part of a module in my Bachelor
