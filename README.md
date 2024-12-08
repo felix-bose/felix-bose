@@ -2,7 +2,7 @@
 
 ---
 
-## ![Profile views](https://gpvc.arturio.dev/felix-bose) [![GitHub followers](https://img.shields.io/github/followers/felix-bose.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/felix-bose?tab=followers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-bose-7957561b5/)
+## [![GitHub followers](https://img.shields.io/github/followers/felix-bose.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/felix-bose?tab=followers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-bose-7957561b5/)
 
 ## About me
 
