@@ -10,7 +10,7 @@ Hi, I am Felix, fullstack engineer from Munich, Germany. Always curious and eage
 
 Current side projects:
 - Test factory generation for typescript (alpha)
-- Client-side first demo application
+- Client-side first demo application (the linear way)
 
 ##### programmic languages
 
@@ -20,7 +20,7 @@ I wanna start try out rust 👀
 
 ##### enviroments and tooling
 
-> [react](https://reactjs.org/) | [vue](https://vuejs.org/) | [electron](https://www.electronjs.org/) | [puppeteer](https://github.com/puppeteer/puppeteer) | CICD on Gitlab/Github with different IaC's | [gitlab](https://about.gitlab.com) | [docker](https://www.docker.com/) | [gcloud](https://console.cloud.google.com/) | [aws](https://aws.amazon.com/) | [azure](https://azure.microsoft.com/de-de)
+> [react/next](https://reactjs.org/) | [vue](https://vuejs.org/) | [electron](https://www.electronjs.org/) | [puppeteer](https://github.com/puppeteer/puppeteer) | CICD on Gitlab/Github with different IaC's | [gitlab](https://about.gitlab.com) | [docker](https://www.docker.com/) | [gcloud](https://console.cloud.google.com/) | [aws](https://aws.amazon.com/) | [azure](https://azure.microsoft.com/de-de)
 
 ## side projets
 
