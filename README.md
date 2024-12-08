@@ -6,7 +6,7 @@
 
 ## About me
 
-Hi, I am Felix, fullstack engineer from Munich, Germany. Always curious and eager to try out new things. Why do a task 10mins manually if you can spend 10 hours automating it? 😂
+Hi, I am Felix, fullstack engineer from Munich, Germany. Always curious and eager to try out new things.
 
 Current side projects:
 - Test factory generation for typescript (alpha)
