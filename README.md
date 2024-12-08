@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi, I am Felix, fullstack engineer from Munich, Germany. Always curious and eager to try out new things.
+I am Felix, fullstack engineer from Munich, Germany. Always curious and eager to try out new things.
 
 ### current side projects:
 - Test factory generation for typescript (alpha)
