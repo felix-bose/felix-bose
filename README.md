@@ -7,6 +7,7 @@
 I am Felix, a fullstack engineer from Munich, Germany. Always curious and eager to try out new things.
 
 ### current side projects:
+- iOS widget written in Swift to display coinbase gains and looses
 - Test factory generation for typescript from openapi schema (alpha)
 
 ### programmic languages
@@ -26,4 +27,3 @@ I wanna try out rust 👀
 - [Github Action - Hashing your branch name](https://github.com/felix-bose/hash-branch-name)
 - [Github Action - Add a release channel to your package.json](https://github.com/felix-bose/add-release-channel)
 - Real-time crypto trading engine on aws
-- iOS Widget: Display coinbase balance and trends
