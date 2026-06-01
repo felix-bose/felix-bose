@@ -4,7 +4,7 @@
 
 ## About me
 
-I am Felix, a fullstack engineer from Munich, Germany. Always curious and eager to try out new things.
+I am Felix, a fullstack engineer from Düsseldorf, Germany. Always curious and eager to try out new things.
 
 ### current side projects:
 - iOS widget written in Swift to display coinbase gains and looses
